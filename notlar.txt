@@ -1,0 +1,6 @@
+Popper.js: İlerlemeli ve kolayca özelleştirilebilen açılır pencereler ve tooltip'ler oluşturmak için kullanılır. Kaynak: https://popper.js.org/
+ npm i @popperjs/core
+ npm i jquery      
+ npm i  bootstrap    
+
+ 
